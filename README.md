@@ -9,9 +9,9 @@ This is an example template GeoPackage<sup>[1](#f1)</sup> for recording data for
 ## Features 
 
 + Combo-box filtering e.g. level 3 box will only show subset of level 2 box that match
-+ Multi-selection of secondary codes
-+ Forms and style built entirely in QGIS so styling and forms carry over onto preferred surveying app
-+ Relational database model to easily update as new categories are added
++ Multi-selection of secondary codes.
++ Forms and style built entirely in QGIS so styling and forms will carry over onto the surveying app.
++ Designed as a relational database such that base tables can be easily updated as new categories are added.
 
 ![](img/uk_hab_survey_01.png)
 ![](img/uk_hab_survey_02.png)
@@ -22,13 +22,13 @@ This is an example template GeoPackage<sup>[1](#f1)</sup> for recording data for
 
 # QGIS and Mobile mapping
 
-Download the GeoPackage<sup>[1](#f1)</sup> and try out in [QGIS](https://qgis.org/) or take a look at this example project in *Input* to see how the app works in the field ([Mergin](https://public.cloudmergin.com) account required first)  
+Download the GeoPackage<sup>[1](#f1)</sup> (**.gpkg** file) and try out in [QGIS](https://qgis.org/) or take a look at an example project in *Input* to see how the app works in the field ([Mergin](https://public.cloudmergin.com) account required first)  
 
 Once signed into *Input* on your mobile device, search for:
 
 **ypp-dhinchley/uk-hab-public**
 
-Feel free to play around and add survey points.
+Feel free to test it out and add survey points!
 
 <p float="left">
   <img src="img/uk-hab-input-01.png" width="300" />
