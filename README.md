@@ -22,7 +22,7 @@ This is an example template GeoPackage<sup>[1](#f1)</sup> for recording data for
 
 # QGIS and Mobile mapping
 
-Download the GeoPackage<sup>[1](#f1)</sup> (**.gpkg** file) and try out in [QGIS](https://qgis.org/) or take a look at an example project in *Input* to see how the app works in the field ([Mergin](https://public.cloudmergin.com) account required first)  
+Download the GeoPackage<sup>[1](#f1)</sup> (**.gpkg** file) and try out in [QGIS](https://qgis.org/) or take a look at an example project in *Input* to see how the app works in the field (a [Mergin](https://public.cloudmergin.com) account is required first).  
 
 Once signed into *Input* on your mobile device, search for:
 
